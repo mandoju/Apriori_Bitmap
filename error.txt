@@ -1,0 +1,15 @@
+g++ -o main main.cpp 
+g++ -o main main.cpp 
+g++ -o main main.cpp >> error.txt 
+g++ -o main main.cpp >> error.txt 
+g++ -o main main.cpp >> error.txt 
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+g++ -o main main.cpp
+./main  >> error.txt 
